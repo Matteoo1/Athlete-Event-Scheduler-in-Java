@@ -21,6 +21,6 @@ Any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse, NetBeans)
 <img width="570" alt="image" src="https://github.com/mohamadd10/Athlete-Event-Scheduler-in-Java/assets/119814738/7fbd74a0-edd3-407e-bbb3-2ee3c8416886">
 
 ## Class Diagram
-<img width="400" height="450" alt="image" src="https://github.com/mohamadd10/Athlete-Event-Scheduler-in-Java/assets/119814738/b22d3d30-c5b7-4e3e-b929-196213a5a99a">
+<img width="400" height="450" alt="image" src="https://github.com/mohamadd10/Athlete-Event-Scheduler-in-Java/assets/119814738/a4f8f47b-62c3-40e7-a0f9-5cafa6f8464a">
 
 
